@@ -1,16 +1,24 @@
 # themoviedb
 
-A new Flutter project.
+## Overview
 
-## Getting Started
+"themoviedb" is a streamlined application designed to serve as a comprehensive database of movies. It provides users with access to movie titles, ratings, and trailers, utilizing the themoviedb API for data.
 
-This project is a starting point for a Flutter application.
+## Features
 
-A few resources to get you started if this is your first Flutter project:
+- **Catalog**: Explore a wide range of movies from various genres and years.
+- **Ratings**: View IMDB ratings to gauge movie popularity and quality.
+- **Trailers**: Access movie trailers directly from the movie details page.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Some of them don't work because I've only done the layout at this point.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Tech Stack
+
+- Frontend & Backend: Flutter
+- API: themoviedb API for movie data
+
+## Contributing
+
+I would be happy to have your input or corrections on my project. 
+
